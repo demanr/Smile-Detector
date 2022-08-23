@@ -41,10 +41,10 @@ def imgFormatOptions():
     optionsText("\n1 - Upload a photo \n2 - Use webcam")
     choice = enterNumber("Enter your choice here: ", 2)
     if choice == 1:
-        #os.system("cls")
+        os.system("cls")
         return True
     elif choice == 2:
-        #os.system("cls")
+        os.system("cls")
         return False
 
 #ends the prog ram
@@ -55,7 +55,7 @@ def endProgram():
     
 # main loop
 while True:
-    #os.system("cls")
+    os.system("cls")
     print("\nWelcome to my AI smile recognition program. You will be presented with several options throughout the use of this program.\nUse numbers to make your choices.")
     print("Use bright lighting for best results.")
     AIChoice = aiChanger()
@@ -99,7 +99,7 @@ while True:
                 break
     # webcam use
     elif imgChoice == False:
-        print("To exit the webcam capture mode click ESC")
+        print("To exit the webcam capture mode click ESC. The webcam may take a moment to open.")
         webcam = cv2.VideoCapture(0)
         # while webcam open
         while True:
