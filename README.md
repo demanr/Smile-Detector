@@ -14,7 +14,7 @@ If the generated AI is having a hard time reading the face, ensure the face is i
 
 To display the detected image(s) the program will open a tab. To escape these tabs, press ESCAPE and alternatively for photo analysis click the X.
 
-## Image
+# Image
 
 Example image by <a href="https://unsplash.com/@leahhetteberg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">leah hetteberg</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
