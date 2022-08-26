@@ -8,6 +8,11 @@ The smile detection programs' database images can be found here:
 The custom smile haarcascade xml was made with the help of a cascade trainer GUI.
 This project made reference to a youtube livesream by Clever Programmer, which can be found here https://www.youtube.com/watch?v=uLY5JSE5WAU
 
+# Dataset
+
+The generated_haarcascade_grey_smile dataset was created using images from the [GENKI4K dataset](https://inc.ucsd.edu/mplab/398/) which were converted to greyscale.
+This dataset was generated using Cascade Trainer GUI.
+
 # Program use
 
 If the generated AI is having a hard time reading the face, ensure the face is in a bright area, and no parts are blocked from view. 
