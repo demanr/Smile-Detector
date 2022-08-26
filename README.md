@@ -13,7 +13,7 @@ This project made reference to a youtube livesream by Clever Programmer, which c
 The generated_haarcascade_grey_smile dataset was created using images from the [GENKI4K dataset](https://inc.ucsd.edu/mplab/398/) which were converted to greyscale.
 This dataset was generated using Cascade Trainer GUI.
 
-The haarcascade_frontalface_default and haarcascade_smile xml files are two of the OpenCV Haar Cascades, which can be found in the data folder on the [OpenCV Github](https://github.com/opencv/opencv)
+The haarcascade_frontalface_default and haarcascade_smile xml files are two of the OpenCV Haar Cascades, which can be found on the [OpenCV Github](https://github.com/opencv/opencv) under data.
 
 # Program use
 
