@@ -1,4 +1,4 @@
-# Smile-Detector
+# Smile Detector
 This Python program uses cv2 to detect smiles from images and webcam.
 
 It converts face data into greyscale for improved classification, and was made with reference to a Youtube livestream by Clever Programmer, which can be found here https://www.youtube.com/watch?v=uLY5JSE5WAU.
